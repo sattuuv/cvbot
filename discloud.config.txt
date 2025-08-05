@@ -1,3 +1,7 @@
-TYPE = nodejs
-START_CMD = npm start
-MEMORY = 1025
+NAME=clipvaaut
+TYPE=bot
+MAIN=index.js
+RAM=1024
+AUTORESTART=yes
+VERSION=latest
+APT=tools
