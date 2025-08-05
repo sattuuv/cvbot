@@ -1,0 +1,3 @@
+TYPE = nodejs
+START_CMD = npm start
+MEMORY = 1025
